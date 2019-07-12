@@ -1,0 +1,15 @@
+# Build directory
+build/
+
+# Generated and compiled files
+coro/_coro.[ch]
+coro/oserrors.[ch]
+coro/asn1/python.c
+coro/clocks/tsc_time.c
+coro/dns/packet.c
+coro/event_queue.cpp
+*.pyc
+*.so
+coro.egg-info
+dist
+setuptools-*

@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: coro
+Version: 1.0.5
+Summary: IronPort Coroutine/Threading Library
+Home-page: http://github.com/ironport/shrapnel
+Author: Sam Rushing, Eric Huss, IronPort Engineering
+Author-email: sam-coro@rushing.nightmare.com
+License: MIT
+Download-URL: https://pypi.python.org/pypi?name=coro
+Description: UNKNOWN
+Platform: UNKNOWN

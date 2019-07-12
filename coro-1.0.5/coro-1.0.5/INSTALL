@@ -1,0 +1,9 @@
+Coro runs on FreeBSD, Linux and MacOS X on i386 and amd64 architectures.
+
+In order to build, it requires:
+- cython (/usr/ports/lang/cython on FreeBSD or your package manager of choice on linux).
+
+To build and install shrapnel:
+
+$ python setup.py build
+# python setup.py install
